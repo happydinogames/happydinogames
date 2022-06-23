@@ -1,31 +1,31 @@
-The Boring Studio Privacy Policy
-The Boring Studio is an international entertainment company specialized in the publishing and development of mobile games and applications.
-The purpose of this policy is to provide you with all the important information and explanations about how and why some of your data may be collected and processed by The Boring Studio when you use one of our applications or browse on our website. This privacy policy governs and details the main principles that The Boring Studio applies to the data we collect and process to develop, publish and monetize mobile games and applications (“The Boring Studio Apps and Games”). 
+The Happy dino games Privacy Policy
+The Happy dino games is an international entertainment company specialized in the publishing and development of mobile games and applications.
+The purpose of this policy is to provide you with all the important information and explanations about how and why some of your data may be collected and processed by The Happy dino games when you use one of our applications or browse on our website. This privacy policy governs and details the main principles that The Happy dino games applies to the data we collect and process to develop, publish and monetize mobile games and applications (“The Happy dino Apps and Games”). 
 This policy also aims to remind you about your rights and to provide you with all the elements you need to exercise them.
-Should you have any questions related to this policy or our practices around privacy and data protection in general, please don’t hesitate to contact The Boring Studio Data Protection Officer as indicated in the contact section of this policy. 
-The Boring Studio apps and games
-Why does The Boring Studio collect data from its apps and games?
-When you install and use The Boring Studio mobile applications, we can collect and process some of your data for different legitimate purposes.
-You will find below explanations regarding the reasons why The Boring Studio may collect data and the legal basis that The Boring Studio relies on in each case. 
-The Boring Studio collects data: 
+Should you have any questions related to this policy or our practices around privacy and data protection in general, please don’t hesitate to contact The Happy dino games Data Protection Officer as indicated in the contact section of this policy. 
+The Happy dino apps and games
+Why does The Happy dino collect data from its apps and games?
+When you install and use The Happy dino mobile applications, we can collect and process some of your data for different legitimate purposes.
+You will find below explanations regarding the reasons why The Happy dino may collect data and the legal basis that The Happy dino relies on in each case. 
+The Happy dino collects data: 
 	•	To provide you with the services you asked for  (e.g., knowing that you completed the first level to allow access to the second one)
 	•	Legal basis – such data processing is strictly necessary for the service(s) asked
 	•	To run analytics and understand how users interact with our product and services in order to continuously improve it either directly or through third party partners  (e.g. identifying that a feature is annoying for users or that a level is too difficult for most gamers)
-	•	Legal basis for third party analytics - Express consent. In the countries where collecting users’ consent may be required by applicable laws and regulations, The Boring Studio only shares personal data collected through The Boring Studio apps with third party partners that provide The Boring Studio with analytics services once you express your consent through the pop-up notice included in our apps.
-	•	Legal basis for first party analytics – Legitimate interest. The Boring Studio collects user data for the purpose of its own internal analytics tools. Data is used for the sole purpose of The Boring Studio analytics and is not shared with any third parties. This data processing is based on the legitimate interest of The Boring Studio.
-	•	To serve advertising tailored to the preference and interests of our users  and allow The Boring Studio to continue to provide free services and products
-	•	Legal basis – Express consent. In the countries where collecting users’ consent may be required by applicable laws and regulations, The Boring Studio only processes or shares personal data collected through The Boring Studio apps for personalized advertising purposes once you express your consent through the pop-up notice included in one of our apps.
+	•	Legal basis for third party analytics - Express consent. In the countries where collecting users’ consent may be required by applicable laws and regulations, The Happy dino only shares personal data collected through The Happy dino apps with third party partners that provide The Happy dino with analytics services once you express your consent through the pop-up notice included in our apps.
+	•	Legal basis for first party analytics – Legitimate interest. The Happy dino collects user data for the purpose of its own internal analytics tools. Data is used for the sole purpose of The Happy dino analytics and is not shared with any third parties. This data processing is based on the legitimate interest of The Happy dino.
+	•	To serve advertising tailored to the preference and interests of our users  and allow The Happy dino to continue to provide free services and products
+	•	Legal basis – Express consent. In the countries where collecting users’ consent may be required by applicable laws and regulations, The Happy dino only processes or shares personal data collected through The Happy dino apps for personalized advertising purposes once you express your consent through the pop-up notice included in one of our apps.
 For all data processing activities that rely on users’ consent, you can withdraw your consent at any time from the “settings” page in our various applications.
 Please only note that in the case where you withdraw your consent or where you refuse to consent in the first place, you will still be served with advertising but that may be less relevant to you as it will not be tailored to your interests.
-What data does The Boring Studio collect from its apps and games?
-For all the purposes listed above the data that The Boring Studio collect is limited to:
+What data does The Happy dino collect from its apps and games?
+For all the purposes listed above the data that The Happy dino collect is limited to:
 	•	The apps you are using
 	•	Your IP address
 	•	Your Mobile Advertising ID (Apple IDFA or Google AAID - which are technical identifiers developed by mobile operating systems for advertising purposes which remain under your control and can be reset or erased at any time in through your device settings)
 	•	Technical information about the device you use and your connection (user agent, type of connection, timestamp)
 	•	Data pertaining to your activities on our applications and notably the way in which you interact with our applications (for instance, how and when you use our applications) and with the advertising served in our applications (for instance, number of ads served, potential clicks)
 With whom may your data be shared & why?
-The Boring Studio does not share your personal data with third parties without your prior consent in the countries where collecting users’ consent may be required by applicable laws and regulations. 
+The Happy dino does not share your personal data with third parties without your prior consent in the countries where collecting users’ consent may be required by applicable laws and regulations. 
 When you consent to the collection of data for advertising and analytics purpose, we may share the data listed above with the following categories of recipients:
 	•	Ad Partners: that allow us to monetize the ad inventory of our apps and provide users with free products and services.
 Those partners usually collect data via their own tools (Software Development Kits or “SDK”). You will find a list of our partners implementing advertising SDKs through our applications and the privacy policies of their services that describe their practices and allow you to exercise your rights directly toward them hereafter:
@@ -55,11 +55,11 @@ Those partners usually collect data via their own tools (Software Development Ki
 	•	Tenjin - https://www.tenjin.io/privacy/
 	•	Authorities: only to the extent we are obliged to by applicable laws and regulations.
 Security and other important information
-How long does The Boring Studio keep your data?
-Personal data collected, received and processed for the purposes described in this policy is not kept longer than necessary by The Boring Studio. 
-The Boring Studio does not retain user level data for more than 13 months except for the data collected for the purpose of its first-party analytics tool which can be stored for up to 25 months based on the guidelines of our Supervisory Data Protection Authority.
+How long does The Happy dino keep your data?
+Personal data collected, received and processed for the purposes described in this policy is not kept longer than necessary by The Happy dino. 
+The Happy dino does not retain user level data for more than 13 months except for the data collected for the purpose of its first-party analytics tool which can be stored for up to 25 months based on the guidelines of our Supervisory Data Protection Authority.
 Children data
-The Boring Studio never knowingly or willingly collect any personal data concerning children under 16 years of age.
+The Happy dino never knowingly or willingly collect any personal data concerning children under 16 years of age.
 International transfers
 Some of the partners and processors referred to in this policy are located outside of our regions
 In such case, we ensure that:
@@ -67,18 +67,18 @@ In such case, we ensure that:
 	•	For personal data transferred outside of countries recognized by the European Commission as having a sufficient level of protection, any of the mechanisms offering appropriate guarantees is used, for which provision is made by applicable regulations, and notably the adoption of the standard contractual clauses of the European Commission.
 What rights do you have?
 Consent withdrawal and opt-out of sale of information
-You can change your consent status at any time from the Privacy Settings available in The Boring Studio mobile games and applications. 
-Please note that if The Boring Studio does not sell the personal information of its users, we may share it with third parties such as analytics and advertising companies in order to improve and personalize your experience and adapt the content and ads of our services. 
-Adjusting your consent settings within The Boring Studio apps and games, will allow you to block the collection of data for these purposes and will de facto prevent the sharing of information with our analytics and/or advertising partners.
+You can change your consent status at any time from the Privacy Settings available in The Happy dino mobile games and applications. 
+Please note that if The Happy dino does not sell the personal information of its users, we may share it with third parties such as analytics and advertising companies in order to improve and personalize your experience and adapt the content and ads of our services. 
+Adjusting your consent settings within The Happy dino apps and games, will allow you to block the collection of data for these purposes and will de facto prevent the sharing of information with our analytics and/or advertising partners.
 Access right
-Upon request, The Boring Studio will provide you with information about whether we hold any of your personal information. You may access or request deletion of your personal information directly in The Boring Studio mobile apps or by contacting The Boring Studio Data Protection Officer as indicated in the “Contact” section below. We will respond to your request within a reasonable timeframe.
+Upon request, The Happy dino will provide you with information about whether we hold any of your personal information. You may access or request deletion of your personal information directly in The Happy dino mobile apps or by contacting The Happy dino Data Protection Officer as indicated in the “Contact” section below. We will respond to your request within a reasonable timeframe.
 Rectification and erasure
-You may request The Boring Studio the rectification of inaccurate personal data concerning you, as well as the completion of incomplete personal data. You may also request The Boring Studio to erase without undue delay your personal data when it is no longer necessary for The Boring Studio to retain such data.
+You may request The Happy dino the rectification of inaccurate personal data concerning you, as well as the completion of incomplete personal data. You may also request The Happy dino to erase without undue delay your personal data when it is no longer necessary for The Happy dino to retain such data.
 In order for your data to be erased or rendered inaccessible you can either: 
 	•	Reset your mobile advertising identifier (IDFA on iOS, GAAID on Androïd) or activate “Limit Ad Tracking” in your device’ settings in order to make previously collected data non linkable to you or your device anymore and limit further data collection if you choose to enable the “Limit Ad Tracking” option
-	•	Contact The Boring Studio Data Protection Officer, as indicated in the “Contact” section below in order to have the data previously collected by The Boring Studio on you and/or your device permanently erased or anonymized
+	•	Contact The Happy dino Data Protection Officer, as indicated in the “Contact” section below in order to have the data previously collected by The Happy dino on you and/or your device permanently erased or anonymized
 Portability
-Upon request, The Boring Studio will provide you with the personal data that you provided to us and, if possible, will communicate this information directly to another data controller of your choice in a portable format when the processing is based on consent or contract.
+Upon request, The Happy dino will provide you with the personal data that you provided to us and, if possible, will communicate this information directly to another data controller of your choice in a portable format when the processing is based on consent or contract.
 Contact
 theboringstudio12@gmail.com
-Data Protection Officer – The Boring Studio
+Data Protection Officer – The Happy dino
