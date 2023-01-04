@@ -13,3 +13,7 @@ facebook.com, 1091600584883808, DIRECT, с3e20eee3f780d68
 
 #AppLovin
 applovin.com, 09e80d0b050e04206cf939eb159081b8, DIRECT
+
+#AdMob
+google.com, pub-4592766409892885, DIRECT, f08c47fec0942fa0
+
